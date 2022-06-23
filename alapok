@@ -1,0 +1,17 @@
+HTML:
+
+HTML5 !DOCTYPE, html, head, meta, link, title,  script, body, p, h1-h6, b, i, u, strong, sub, sup, 
+style, br, hr,img, a, link, strong, em, figure, figcaption,  div, span
+ 
+
+CSS:
+
+Color, opacity, background-color, background-image, background-repeat, background-position, 
+background-attachment, Border, margin, padding, data, width, heightTop, bottom, 
+left, right, position, letter-spacing, line-height, text-align vertical-align, text-justify
+ Font, font-family, font-size, font-stretch, font-style, text-decoration,Border, margin, padding, data, width, heightOverflow, display, float, clear, visibility, z-index, 
+rel, text-transform, list-style, cursor, top, bottom, left, right, position, letter-spacing, 
+line-height, text-align vertical-align, text-justify
+gerendás ezt adta fel hogy elvileg ezek kellenek html-be
+még régebben csak fasz vagyok és most osztottam meg
+nem hiszem mindegyik kell
